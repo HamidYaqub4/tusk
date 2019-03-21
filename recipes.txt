@@ -5,6 +5,10 @@ welcome to tusk kitchen
 pasta
 pizza
 fries
+rice
+pudding
 
 
 thank you
+
+final copy
